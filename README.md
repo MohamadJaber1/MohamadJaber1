@@ -25,7 +25,7 @@
 <br>
 <img align="left" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
 <img align="left" alt="Keras" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
-<img align="left" alt="Pytorch"  width="70px" hight="60px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />
+<img align="left" alt="Pytorch"  width="70px" hight="160px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />
 <img align="left" alt="XGBoost"  width="80px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" />
 <img align="left" alt="Sklearn" width="60px"  hight="66px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="Pandas" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
