@@ -30,7 +30,7 @@
 <img align="left" alt="Sklearn" width="60px"  hight="66px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="Pandas" width="80px" hight="56px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
 <img align="left" alt="Numpy" width="60px"  src="https://github.com/numpy/numpy/blob/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" />
-<img align="left" alt="PostgreSQL" width="30px" height="56px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
+<img align="left" alt="PostgreSQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
 <img align="left" alt="Docker"  width="90px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />
 
 </td>
