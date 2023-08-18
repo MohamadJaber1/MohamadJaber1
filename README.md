@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on exciting projects involving AI and machine learning. If you're interested in pushing the boundaries of technology, let's connect.
 - 💬 Ask me about my experience in deploying machine learning models, working with large datasets, handling out-of-distribution datasets, and collaborating in cross-functional teams. I'm always up for a chat about the fascinating world of data science.
 - 📫 How to reach me: Feel free to connect with me on LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/mohamadjaber1/). Let's discuss innovation and technology!
-- ⚡ Fun fact: When I'm not immersed in data and algorithms, I enjoy exploring the outdoors and discovering new coffee spots around the city.
+- ⚡ Fun fact: When I'm not immersed in data and algorithms, I enjoy doing volunteer work and contributing to society.
 
 </td>
 </tr>
@@ -30,8 +30,8 @@
 <img align="left" alt="Sklearn" width="60px"  hight="66px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="Pandas" width="80px" hight="56px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
 <img align="left" alt="Numpy" width="60px"  src="https://github.com/numpy/numpy/blob/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" />
-<img align="left" alt="Docker"  width="90px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />
 <img align="left" alt="PostgreSQL" width="30px" height="56px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
+<img align="left" alt="Docker"  width="90px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />
 
 </td>
 </tr>
