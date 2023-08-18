@@ -25,13 +25,13 @@
 <br>
 <img align="left" alt="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
 <img align="left" alt="Keras" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
-<img align="left" alt="Pytorch"  width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />
+<img align="left" alt="Pytorch"  width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />
 <img align="left" alt="XGBoost"  width="80px" src="https://mljar.com/images/machine-learning/xgboost_v2.png" />
 <img align="left" alt="Sklearn" width="60px"  hight="66px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="Pandas" width="80px" hight="56px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
 <img align="left" alt="Numpy" width="60px"  src="https://github.com/numpy/numpy/blob/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" />
 <img align="left" alt="Docker"  width="90px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />
-<img align="left" alt="PostgreSQL" width="80px" height="56px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
+<img align="left" alt="PostgreSQL" width="50px" height="56px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
 
 </td>
 </tr>
