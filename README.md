@@ -8,8 +8,7 @@
 <br>
 
 ### Hi there 👋
-  
-- 🔭 I’m currently working on enhancing my skills in data science, artificial intelligence, and machine learning. I'm passionate about developing solutions that make an impact.
+
 - 🌱 I’m currently learning advanced techniques in machine learning, including ensemble learning methods and deep learning architectures. Continuous learning is my mantra!
 - 👯 I’m looking to collaborate on exciting projects involving AI and machine learning. If you're interested in pushing the boundaries of technology, let's connect.
 - 💬 Ask me about my experience in deploying machine learning models, working with large datasets, handling out-of-distribution datasets, and collaborating in cross-functional teams. I'm always up for a chat about the fascinating world of data science.
