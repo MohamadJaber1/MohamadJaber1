@@ -7,13 +7,16 @@
 <br>
 <br>
 
-### Hi there 👋
+# Hi there, I'm Mohamad 👋
 
-- 🌱 I’m currently learning advanced techniques in AI. Continuous learning is my mantra!
-- 👯 I’m looking to collaborate on exciting projects involving AI and machine learning. If you're interested in pushing the boundaries of technology, let's connect.
-- 💬 Ask me about my experience in deploying machine learning models, working with large datasets, handling out-of-distribution datasets, and collaborating in cross-functional teams. I'm always up for a chat about the fascinating world of data science.
-- 📫 How to reach me: Feel free to connect with me on my [LinkedIn Profile](https://www.linkedin.com/in/mohamadjaber1/). Let's discuss innovation and technology!
-- ⚡ Fun fact: When I'm not immersed in data and algorithms, I enjoy doing volunteer work and contributing to society.
+I'm an AI and Machine Learning Engineer interested in building practical, reliable, and scalable intelligent systems.
+
+- 🔭 Exploring LLMs, RAG, AI agents, vector search, and MLOps
+- 💬 Ask me about ML deployment, large datasets, and out-of-distribution data
+- 👯 Open to collaborating on interesting AI and open-source projects
+- 🛠️ Python · PyTorch · TensorFlow · scikit-learn · PostgreSQL · Docker · Kubernetes · AWS
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamadjaber1/)
+- ⚡ Outside technology, I enjoy volunteering and contributing to the community
 
 </td>
 </tr>
