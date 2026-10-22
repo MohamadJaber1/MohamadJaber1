@@ -4,8 +4,6 @@
 <tr>
 <td>
 <strong>About Myself:</strong>
-<br>
-<br>
 
 # Hi there, I'm Mohamad 👋
 
